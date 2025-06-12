@@ -1,0 +1,58 @@
+{
+  "kind": "singleType",
+  "collectionName": "third_sections",
+  "info": {
+    "singularName": "third-section",
+    "pluralName": "third-sections",
+    "displayName": "thirdSection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titleThird": {
+      "type": "string",
+      "required": true
+    },
+    "contentThird": {
+      "type": "string",
+      "required": true
+    },
+    "docente": {
+      "type": "string"
+    },
+    "nombreDocente": {
+      "type": "string",
+      "required": true
+    },
+    "conocimiento1": {
+      "type": "string",
+      "required": true
+    },
+    "conocimiento2": {
+      "type": "string",
+      "required": true
+    },
+    "conocimiento3": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoMaestro": {
+      "type": "string",
+      "required": true
+    },
+    "logro1": {
+      "type": "string",
+      "required": true
+    },
+    "logro2": {
+      "type": "string",
+      "required": true
+    },
+    "logro3": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

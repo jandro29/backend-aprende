@@ -1,0 +1,70 @@
+{
+  "kind": "singleType",
+  "collectionName": "second_sections",
+  "info": {
+    "singularName": "second-section",
+    "pluralName": "second-sections",
+    "displayName": "secondSection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "contenido": {
+      "type": "string"
+    },
+    "titleCard1": {
+      "type": "string",
+      "required": true
+    },
+    "titleCard2": {
+      "type": "string",
+      "required": true
+    },
+    "titleCard3": {
+      "type": "string",
+      "required": true
+    },
+    "titleCard4": {
+      "type": "string",
+      "required": true
+    },
+    "titleCard5": {
+      "type": "string",
+      "required": true
+    },
+    "titleCard6": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard1": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard2": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard3": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard4": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard5": {
+      "type": "string",
+      "required": true
+    },
+    "contenidoCard6": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

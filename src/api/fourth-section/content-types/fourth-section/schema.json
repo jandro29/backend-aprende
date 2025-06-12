@@ -1,0 +1,61 @@
+{
+  "kind": "singleType",
+  "collectionName": "fourth_sections",
+  "info": {
+    "singularName": "fourth-section",
+    "pluralName": "fourth-sections",
+    "displayName": "fourthSection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fourthTitle": {
+      "type": "string",
+      "default": "Lo que dicen nuestros participantes",
+      "required": true
+    },
+    "fourthText": {
+      "type": "string",
+      "default": "Historias de profesionales que optimizaron sus procesos comerciales con IA",
+      "required": true
+    },
+    "comentario1": {
+      "type": "string",
+      "required": true
+    },
+    "comentario2": {
+      "type": "string",
+      "required": true
+    },
+    "comentario3": {
+      "type": "string",
+      "required": true
+    },
+    "nombre1": {
+      "type": "string",
+      "required": true
+    },
+    "nombre2": {
+      "type": "string",
+      "required": true
+    },
+    "nombre3": {
+      "type": "string",
+      "required": true
+    },
+    "profesion1": {
+      "type": "string",
+      "required": true
+    },
+    "profesion2": {
+      "type": "string",
+      "required": true
+    },
+    "profesion3": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
